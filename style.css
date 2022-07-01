@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Finlandica&family=Gentium+Book+Plus&display=swap');
+*{
+   padding: 0;
+   margin: 0;
+}
+.container{
+   background-color: rgb(225, 225, 11);
+   width:100vw;
+   height: 100vh;
+}
+.div1{
+   font-size: 30px;
+    border: 10px solid rgb(118, 23, 140);
+    background-color: orange;
+    font-family:  'Titan One', cursive;
+    width:100vw;
+    height: 100vh;
+ }
+ .div1 h1{
+   border: 10px rgb(207, 24, 18);
+   color: rgba(16, 14, 14, 0.918)   ;
+   position: absolute;
+   bottom: 25px;
+   top: 300px;
+   left: 375px;
+ }
+ .div1 img{
+  width:100vw;
+  height:100vh;
+ }
+ .div2{
+    border: 10px solid gray;
+    background-color: rgb(24, 202, 175);
+    font-family:  'Titan One', cursive;
+    width:100vw;
+    height: 100vh;
+    text-align: center;
+ }
+ .div2 img{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 75%;
+   height: 75vh;
+ 
+ }
+ .div3{
+    border: 10px solid gray;
+    background-color: rgb(221, 217, 21);
+    font-family:  'Titan One', cursive;
+    width:100vw;
+    height:100vh;
+    text-align: center;
+ }
+ .div3 img{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 75%;
+   height: 75vh;
+ }
+ .div4{
+    border: 10px solid gray;
+    background-color: rgba(228, 15, 72, 0.87);
+    font-family:  'Titan One', cursive;
+    width:100vw;
+    height: 100vh;
+    text-align: center;
+ }
+ .div4 img{
+   display: block;
+   border: 40px solid #0314fc;
+   margin-left: auto;
+   margin-right: auto;
+   width: 75%;
+   height: 75vh;
+ }
